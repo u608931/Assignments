@@ -2,4 +2,4 @@
 =============
 Applied Economic Analysis
 -------------------------
-https://github.com/rjcollier91/Assignments/blob/master/CV.md
+[CV](https://github.com/rjcollier91/Assignments/blob/master/CV.md)
