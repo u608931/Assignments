@@ -1,5 +1,5 @@
 #Ryan Collier  
-_Hammberbeek 31, 5032EZ, Tilburg - +31614056191 - r.j.collier@tilburguniversity.nl_
+_Hammerbeek 31, 5032EZ, Tilburg - +31614056191 - r.j.collier@tilburguniversity.nl_
 
 ##Education
 
