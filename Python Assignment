@@ -3,7 +3,8 @@ How-the-hell-does-it-work? (Honza)
 hey there I made it
 Proposal of work plan
 1) Abstract
-<h1> Motivation </h1>
+
+<h2>Motivation </h2></h1>
  We start from the assumptions of the paper by Diamond and Dybvig to develop a few extensions to their theoretical model that seem to fit the observed mechanisms of bank runs.
 > Specifically, we considered that some insights from behavioral economics that use a hyperbolic discounting factor might help to improve the quality of the standard model on bank runs. 
 > An improved model of bank runs will make it possible for banks and/or policy makers to act in times of financial distress. 
